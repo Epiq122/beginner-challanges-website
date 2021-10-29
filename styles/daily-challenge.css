@@ -1,0 +1,24 @@
+main {
+  width: 800px;
+  margin: 200px auto 72px auto;
+  background-color: rgb(174, 174, 211);
+  padding: 24px;
+  border: 5px solid rgb(44, 44, 44);
+  border-radius: 50px;
+  box-shadow: 1px 2px 8px rgb(0, 0, 0.3);
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  /* display: block;
+  margin-left: auto;
+  margin-right: auto; */
+}
+
+#todays-challenge {
+  font-size: 50px;
+  font-weight: bold;
+  color: rgb(57, 59, 172);
+}

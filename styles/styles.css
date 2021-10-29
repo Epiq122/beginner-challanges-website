@@ -25,18 +25,6 @@ a {
 a:hover {
   font-weight: bold;
 }
-img {
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
-  /* display: block;
-  margin-left: auto;
-  margin-right: auto; */
-}
-
-#todays-challenge {
-  font-size: 50px;
-}
 
 /* add padding to footer */
 footer {
