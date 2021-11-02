@@ -12,11 +12,22 @@ img {
   width: 200px;
   height: 200px;
   border-radius: 50%;
+  border: 5px solid rgb(44, 44, 44);
+  margin-top: -134px;
+
   /* display: block;
   margin-left: auto;
   margin-right: auto; */
 }
 
+h1 {
+  font-size: 30px;
+  color: rgb(44, 44, 44);
+}
+
+span {
+  color: rgb(221, 82, 82);
+}
 #todays-challenge {
   font-size: 50px;
   font-weight: bold;
